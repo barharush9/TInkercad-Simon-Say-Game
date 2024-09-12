@@ -1,4 +1,4 @@
-Link : https://www.tinkercad.com/things/eiaWiPde3fy-with-ui-final-project-simon-says/editel?sharecode=qXEuBHrMJMriBTqGua7cm70NTIejei1VgKwV62x370k
+
 # Simon Says Game
 
 This **Simon Says** game is developed using **Tinkercad** and features a sound-based user interface (UI) that lights up the correct color LED based on detected sound frequencies. The UI is developed using **JavaScript** to handle real-time interaction with the game.
@@ -57,4 +57,5 @@ For more detailed information, please refer to the project **presentation** or *
 ## Author
 
 Developed by Bar Harush , Matan katanson , Tomer Edelsberg  as part of a Tinkercad project.
+Link : https://www.tinkercad.com/things/eiaWiPde3fy-with-ui-final-project-simon-says/editel?sharecode=qXEuBHrMJMriBTqGua7cm70NTIejei1VgKwV62x370k
 
