@@ -55,5 +55,5 @@ For more detailed information, please refer to the project **presentation** or *
 
 ## Author
 
-Developed by [Your Name] as part of a Tinkercad project.
+Developed by Bar Harush , Matan katanson , Tomer Edelsberg  as part of a Tinkercad project.
 
